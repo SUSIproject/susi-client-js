@@ -1,6 +1,6 @@
 #  [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 
-> Javascript Client for the SUSI application Server. 
+> Javascript Client for the SUSI application Server.
 
 
 ## Install
@@ -16,6 +16,11 @@ $ npm install --save susi-client-js
 var susiClientJs = require('susi-client-js');
 
 susiClientJs('Rainbow');
+```
+
+```sh
+# creates a browser.js
+$ npm run browser
 ```
 
 
