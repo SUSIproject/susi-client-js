@@ -19,7 +19,10 @@
     "client",
     "javascript"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "should": "^7.0.4",
+    "sinon": "^1.16.1"
+  },
   "devDependencies": {
     "browserify": "^9.0.3",
     "grunt-cli": "^0.1.13",
