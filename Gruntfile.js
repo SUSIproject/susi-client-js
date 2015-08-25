@@ -14,12 +14,6 @@ module.exports = function (grunt) {
       gruntfile: {
         src: ['Gruntfile.js']
       },
-      js: {
-        src: ['*.js']
-      },
-      test: {
-        src: ['test/**/*.js']
-      }
     },
     mochacli: {
       options: {
